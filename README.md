@@ -1,0 +1,2 @@
+# Spell-Checker
+In this project, we will be implementing an autocorrection program that provides suggestions given an incomplete or incorrect input word, similar to what Google does with its search. Our program will accept a corpus — a text file to analyze in order to build its understanding of the words and phrases users might be typing. Then, it will read the user input, for which it should offer autocorrect suggestions.
